@@ -1,6 +1,6 @@
 import { useState } from 'react'
-import { AboutUs, Chef, FindUs, Gallery, Header, Intro, Laurels, SpecialMenu } from './containers'
-import { Navbar, Footer } from './components'
+import { AboutUs, Chef, FindUs, Gallery, Header, Intro, Laurels, SpecialMenu, Footer } from './containers'
+import { Navbar } from './components'
 import './App.css'
 
 function App() {
